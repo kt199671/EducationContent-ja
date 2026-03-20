@@ -1,6 +1,6 @@
 {
     "name": "educationcontent-ja",
-    "version": "1.0.0",
+    "version": "1.1.0",
     "dependencies": {
         "core": "*",
         "builder": "*"
@@ -10,6 +10,10 @@
         "coding-fun/lesson-2/blocked-path.md",
         "coding-fun/lesson-2/garbage.md",
         "coding-fun/lesson-2/tracks.md",
+        "coding-fun/lesson-3/locate-cub.md",
+        "coding-fun/lesson-3/chasm.md",
+        "coding-fun/lesson-3/higher-ground.md",
+        "coding-fun/lesson-3/separated-family.md",
         "no_coding.md",
         "main.ts"
     ],
